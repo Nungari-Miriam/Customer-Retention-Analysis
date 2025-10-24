@@ -29,9 +29,8 @@ Using Power Query and SQL, I performed:
 
 ---
 
-## Dashboard Highlights
-You can explore the live Power BI dashboard here:  
- [**View Power BI Dashboard**]([YOUR_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiZTAwNWI3YTEtNTZkMy00NjZhLTg4Y2QtMDc4YmQ1NGY2ZDY4IiwidCI6IjZiNjIzMTJmLWJkNDctNDY0My1hNDc3LTI4MjE5ZWU3YzY3YiJ9))
+## Live Dashboard 
+[**View Power BI Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiZTAwNWI3YTEtNTZkMy00NjZhLTg4Y2QtMDc4YmQ1NGY2ZDY4IiwidCI6IjZiNjIzMTJmLWJkNDctNDY0My1hNDc3LTI4MjE5ZWU3YzY3YiJ9)  
 
 Key visual features:
 - **Churn Overview:** KPIs for total customers, churn % and average monthly charges.  
